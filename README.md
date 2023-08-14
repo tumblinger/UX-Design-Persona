@@ -1,8 +1,8 @@
-# UX Design Persona Project
+# UX Design Project
 
-👋 Welcome to my UX Design Persona project! As I embark on my journey through the Google UX Designer course, I'm excited to share my progress and insights with you.
+👋 Welcome to my UX Design project! As I embark on my journey through the Google UX Designer course, I'm excited to share my progress and insights with you.
 
-## Project Overview
+## Project 1 Overview
 
 In this initial project, I dive into the fundamental concept of creating personas, a crucial step in the UX design process. **Personas help us better understand and empathize with our users**, paving the way for more user-centered and effective design solutions.
 
