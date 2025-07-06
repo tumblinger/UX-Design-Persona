@@ -18,7 +18,7 @@ In this initial project, I dive into the fundamental concept of creating persona
 
 - **Empathy and User-Centered Design:** Develop a strong sense of empathy for users by putting myself in their shoes and considering their unique perspectives.
 
-## Why I'm Excited
+## Why I made the project
 
 🚀 **This project marks the beginning of my UX design journey**, and I am eager to apply the principles I learn in the course to create meaningful and impactful user experiences. I believe that mastering the skill of persona creation will be the foundation for creating user-centric designs that truly make a difference.
 
